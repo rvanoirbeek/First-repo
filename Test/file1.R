@@ -6,6 +6,6 @@
 normalSample <- rnorm(10)
 
 test <- normalSample
-
+plot(normalSample)
 aanpassing <- 10
- sfpspf
+tweedeAanpassing <- 888
