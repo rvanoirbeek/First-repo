@@ -6,3 +6,5 @@
 normalSample <- rnorm(10)
 
 test <- normalSample
+
+aanpassing <- 10
